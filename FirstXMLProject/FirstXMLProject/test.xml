@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Testees>
+         <Testee>
+                 <Name>Alex Morozova</Name>
+                 <Rank>Middle</Rank>
+         </Testee>
+         <Testee>
+                 <Name>Fedor Voloshyn</Name>
+                 <Rank>Senior-Junior</Rank>
+         </Testee>
+         <Testee>
+                 <Name>Pjotr Dyatloff</Name>
+                 <Rank>Tester</Rank>
+         </Testee>
+</Testees>
+
+
